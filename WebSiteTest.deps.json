@@ -7,15 +7,15 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {},
     ".NETCoreApp,Version=v6.0/linux-x64": {
-      "BlazorApp_CompilationTest/1.0.0": {
+      "WebSiteTest/1.0.0": {
         "runtime": {
-          "BlazorApp_CompilationTest.dll": {}
+          "WebSiteTest.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BlazorApp_CompilationTest/1.0.0": {
+    "WebSiteTest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
